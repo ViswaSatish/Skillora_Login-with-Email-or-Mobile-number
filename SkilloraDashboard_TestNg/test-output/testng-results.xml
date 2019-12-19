@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="7" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-17T17:05:30 IST" name="Default suite" finished-at="2019-12-17T17:09:26 IST" duration-ms="235387">
+    <groups>
+      <group name="Title">
+        <method signature="LoginWithMobileNumber.SkilloraLogintext()[pri:1, instance:LoginWithMobileNumber@78047b92]" name="SkilloraLogintext" class="LoginWithMobileNumber"/>
+      </group> <!-- Title -->
+      <group name="Login with Mobile">
+        <method signature="LoginWithMobileNumber.LoginwithMobileButton()[pri:3, instance:LoginWithMobileNumber@78047b92]" name="LoginwithMobileButton" class="LoginWithMobileNumber"/>
+        <method signature="LoginWithMobileNumber.LoginwithMobileButtonText()[pri:2, instance:LoginWithMobileNumber@78047b92]" name="LoginwithMobileButtonText" class="LoginWithMobileNumber"/>
+        <method signature="LoginWithMobileNumber.MobileNumberFeeld()[pri:5, instance:LoginWithMobileNumber@78047b92]" name="MobileNumberFeeld" class="LoginWithMobileNumber"/>
+        <method signature="LoginWithMobileNumber.MobileNumberText()[pri:4, instance:LoginWithMobileNumber@78047b92]" name="MobileNumberText" class="LoginWithMobileNumber"/>
+        <method signature="LoginWithMobileNumber.PasswordFeeld()[pri:7, instance:LoginWithMobileNumber@78047b92]" name="PasswordFeeld" class="LoginWithMobileNumber"/>
+        <method signature="LoginWithMobileNumber.PasswordText()[pri:6, instance:LoginWithMobileNumber@78047b92]" name="PasswordText" class="LoginWithMobileNumber"/>
+      </group> <!-- Login with Mobile -->
+      <group name="Login Button">
+        <method signature="LoginWithMobileNumber.LoginButtonTest()[pri:9, instance:LoginWithMobileNumber@78047b92]" name="LoginButtonTest" class="LoginWithMobileNumber"/>
+        <method signature="LoginWithMobileNumber.LoginButtonText()[pri:8, instance:LoginWithMobileNumber@78047b92]" name="LoginButtonText" class="LoginWithMobileNumber"/>
+      </group> <!-- Login Button -->
+    </groups>
+    <test started-at="2019-12-17T17:05:30 IST" name="Default test" finished-at="2019-12-17T17:09:26 IST" duration-ms="235387">
+      <class name="LoginWithMobileNumber">
+        <test-method is-config="true" signature="setup()[pri:0, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:05:30 IST" name="setup" finished-at="2019-12-17T17:05:55 IST" duration-ms="24832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SkilloraLogintext()[pri:1, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:05:55 IST" name="SkilloraLogintext" finished-at="2019-12-17T17:05:55 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SkilloraLogintext -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:05:55 IST" name="tearDown" finished-at="2019-12-17T17:05:56 IST" duration-ms="637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:05:56 IST" name="setup" finished-at="2019-12-17T17:06:12 IST" duration-ms="16222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginwithMobileButtonText()[pri:2, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:06:12 IST" name="LoginwithMobileButtonText" finished-at="2019-12-17T17:06:12 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginwithMobileButtonText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:06:12 IST" name="tearDown" finished-at="2019-12-17T17:06:13 IST" duration-ms="666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:06:13 IST" name="setup" finished-at="2019-12-17T17:06:32 IST" duration-ms="19582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginwithMobileButton()[pri:3, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:06:32 IST" name="LoginwithMobileButton" finished-at="2019-12-17T17:06:33 IST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginwithMobileButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:06:33 IST" name="tearDown" finished-at="2019-12-17T17:06:33 IST" duration-ms="664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:06:33 IST" name="setup" finished-at="2019-12-17T17:06:51 IST" duration-ms="18208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="MobileNumberText()[pri:4, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:06:51 IST" name="MobileNumberText" finished-at="2019-12-17T17:06:52 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileNumberText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:06:52 IST" name="tearDown" finished-at="2019-12-17T17:06:52 IST" duration-ms="657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:06:52 IST" name="setup" finished-at="2019-12-17T17:07:09 IST" duration-ms="16355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="MobileNumberFeeld()[pri:5, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:07:09 IST" name="MobileNumberFeeld" finished-at="2019-12-17T17:07:39 IST" duration-ms="30123" status="FAIL">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: chrome=79.0.3945.79)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'ADMIN-PC', ip: '192.168.0.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Satish\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:61019}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 74f4b2dfc176c08e4ee36d974a6dc261]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=79.0.3945.79)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'ADMIN-PC', ip: '192.168.0.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Satish\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:61019}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 74f4b2dfc176c08e4ee36d974a6dc261
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:106)
+at LoginWithMobileNumber.MobileNumberFeeld(LoginWithMobileNumber.java:52)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileNumberFeeld -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:07:39 IST" name="tearDown" finished-at="2019-12-17T17:07:40 IST" duration-ms="1088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:07:40 IST" name="setup" finished-at="2019-12-17T17:08:00 IST" duration-ms="20503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="PasswordText()[pri:6, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:08:00 IST" name="PasswordText" finished-at="2019-12-17T17:08:00 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PasswordText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:08:00 IST" name="tearDown" finished-at="2019-12-17T17:08:01 IST" duration-ms="667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:08:01 IST" name="setup" finished-at="2019-12-17T17:08:21 IST" duration-ms="20137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="PasswordFeeld()[pri:7, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:08:21 IST" name="PasswordFeeld" finished-at="2019-12-17T17:08:51 IST" duration-ms="30072" status="FAIL">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: chrome=79.0.3945.79)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'ADMIN-PC', ip: '192.168.0.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Satish\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:61281}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3c588c16445e1c9f2536efefc4234585]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=79.0.3945.79)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'ADMIN-PC', ip: '192.168.0.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.79, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Satish\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:61281}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3c588c16445e1c9f2536efefc4234585
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:106)
+at LoginWithMobileNumber.PasswordFeeld(LoginWithMobileNumber.java:64)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PasswordFeeld -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:08:51 IST" name="tearDown" finished-at="2019-12-17T17:08:52 IST" duration-ms="623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:08:52 IST" name="setup" finished-at="2019-12-17T17:09:09 IST" duration-ms="16816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginButtonText()[pri:8, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:09:09 IST" name="LoginButtonText" finished-at="2019-12-17T17:09:09 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginButtonText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:09:09 IST" name="tearDown" finished-at="2019-12-17T17:09:09 IST" duration-ms="618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:09:09 IST" name="setup" finished-at="2019-12-17T17:09:25 IST" duration-ms="15813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginButtonTest()[pri:9, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:09:25 IST" name="LoginButtonTest" finished-at="2019-12-17T17:09:25 IST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginButtonTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginWithMobileNumber@78047b92]" started-at="2019-12-17T17:09:25 IST" name="tearDown" finished-at="2019-12-17T17:09:26 IST" duration-ms="628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- LoginWithMobileNumber -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
